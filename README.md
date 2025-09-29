@@ -1,4 +1,4 @@
-# Game-of-Life
+# Game of Life
 Oma versioni kuuluisasta John Conwayn Game of Life
 
 ASENNUS  

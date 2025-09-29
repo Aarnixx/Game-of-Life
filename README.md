@@ -1,5 +1,6 @@
 # Game-of-Life
 Oma versioni kuuluisasta John Conwayn Game of Life
+
 ASENNUS  
   - Kloonaa repositorio: git clone https://github.com/Aarnixx/Game-of-Life.git  
   - Siirry projektin kansioon: cd Game-of-Life  
